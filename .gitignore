@@ -1,6 +1,4 @@
 __pycache__/
 *.db
-instance
-static/img/*.png
 *.pytest_cache
 **/.DS_Store
